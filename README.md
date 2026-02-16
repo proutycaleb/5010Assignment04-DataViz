@@ -9,4 +9,4 @@ I struggled a lot to get other JSON files working, so decided to work with the o
 
 I noticed the absurd variation between the largest and smallest exchange rates, refelcting hyperinflation in certain countries, so I tried to display the data in a way that represented the variation. 
 
-I learned how to use the map function, and also looked into using the norm function
+I learned how to use the map function, and also looked into using the norm function.
